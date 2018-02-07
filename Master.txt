@@ -1,1 +1,5 @@
 
+<Version: 1.01>
+/data/Map003 https://raw.githubusercontent.com/747jhon/PrgLionHeartUpd/master/Map003.json
+/data/Map006 https://raw.githubusercontent.com/747jhon/PrgLionHeartUpd/master/Map006.json
+<End of Version>
